@@ -47,6 +47,15 @@ div {
   gap: 14px;
 }
 
+.btn {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+
 #submit {
   width: 400px;
   margin-top: 10px;

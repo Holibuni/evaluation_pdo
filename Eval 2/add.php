@@ -35,7 +35,7 @@
                 <textarea name="commentaire" id="commentaire">Commentaire</textarea>
             </div>
         </section>
-            <div>
+            <div class="btn">
                 <input type="submit" id="submit" value="Valider"/>
             </div>
     </form>
